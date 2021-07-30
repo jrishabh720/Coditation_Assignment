@@ -17,10 +17,10 @@ created by applying the above rules simultaneously to every cell in the seed —
 simultaneously, and the discrete moment at which this happens is called a tick. (In other words, each
 generation is a pure function of the one before.)
 
-<pre>
-Black = Alive
-White = Dead
-</pre>
+Color | State of Cell
+------|--------------
+Black|Alive
+White|Dead
 
 ## Search by Name
 #### How to Search
